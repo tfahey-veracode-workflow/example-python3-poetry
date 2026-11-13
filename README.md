@@ -3,7 +3,7 @@
 An example poetry project to demonstrate [Veracode SCA](https://www.veracode.com/products/software-composition-analysis) scans.
 
 ## Try me!
-Making a change to trigger a scan again
+Making a change to trigger a scan again on 11/13/2026
 ```
 brew tap veracode/srcclr
 brew install srcclr
